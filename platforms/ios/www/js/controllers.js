@@ -1,4 +1,5 @@
 angular.module('starter.controllers', [])
+})
 
 .controller('MenuCtrl', function($scope) {
 })
@@ -10,6 +11,12 @@ angular.module('starter.controllers', [])
 })
 
 .controller('EatingCtrl', function($scope) {
+})
+
+.controller('breastFedCtrl', function($scope) {
+})
+
+.controller('bottleFedCtrl', function($scope) {
 })
 
 .controller('SettingsCtrl', function($scope) {

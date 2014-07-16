@@ -1,9 +1,14 @@
-<ion-view title="Dashboard">
- <ion-content class="has-header padding">
-   <h1>Menu</h1>
-   <button type="submit" id="addChild"></button>
+<ion-slide-box on-slide-changed="slideHasChanged($index)">
+  <ion-slide>
+    <div class="box blue"><h1>BLUE</h1></div>
+  </ion-slide>
+  <ion-slide>
+    <div class="box yellow"><h1>YELLOW</h1></div>
+  </ion-slide>
+  <ion-slide>
+    <div class="box pink"><h1>PINK</h1></div>
+  </ion-slide>
+</ion-slide-box>
 
-   <img class="media-object" src="/img/ionic.png" alt="ionic">
 
- </ion-content>
-</ion-view>
+

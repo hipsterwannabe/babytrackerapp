@@ -78,6 +78,26 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
      }
    })
 
+   .state('tab.eating.breast', {
+     url: '/eating/breast',
+     views: {
+       'tab-eating-breast': {
+         templateUrl: 'templates/tab-eating-breast.html',
+         controller: 'breastFeedCtrl'
+       }
+     }
+   })
+
+   .state('tab.eating.bottle', {
+     url: '/eating/bottle',
+     views: {
+       'tab-eating-bottle': {
+         templateUrl: 'templates/tab-eating-bottle.html',
+         controller: 'bottleFeedCtrl'
+       }
+     }
+   })
+
    .state('tab.settings', {
      url: '/settings',
      views: {
