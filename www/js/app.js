@@ -58,6 +58,26 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
      }
    })
 
+   .state('tab.diaper', {
+     url: '/diaper',
+     views: {
+       'tab-diaper': {
+         templateUrl: 'templates/tab-diaper.html',
+         controller: 'DiaperCtrl'
+       }
+     }
+   })
+
+   .state('tab.eating', {
+     url: '/eating',
+     views: {
+       'tab-eating': {
+         templateUrl: 'templates/tab-eating.html',
+         controller: 'EatingCtrl'
+       }
+     }
+   })
+
  // if none of the above states are matched, use this as the fallback
  $urlRouterProvider.otherwise('/tab/menu');
 

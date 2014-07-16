@@ -5,3 +5,9 @@ angular.module('starter.controllers', [])
 
 .controller('NapCtrl', function($scope) {
 })
+
+.controller('DiaperCtrl', function($scope) {
+})
+
+.controller('EatingCtrl', function($scope) {
+})

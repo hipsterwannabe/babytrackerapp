@@ -1,20 +1,13 @@
 angular.module('starter.controllers', [])
 
-
 .controller('MenuCtrl', function($scope) {
 })
 
 .controller('NapCtrl', function($scope) {
-
 })
 
-.controller('FriendsCtrl', function($scope, Friends) {
-  $scope.friends = Friends.all();
+.controller('DiaperCtrl', function($scope) {
 })
 
-.controller('FriendDetailCtrl', function($scope, $stateParams, Friends) {
-  $scope.friend = Friends.get($stateParams.friendId);
+.controller('EatingCtrl', function($scope) {
 })
-
-.controller('AccountCtrl', function($scope) {
-});
