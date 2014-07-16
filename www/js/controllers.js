@@ -11,3 +11,6 @@ angular.module('starter.controllers', [])
 
 .controller('EatingCtrl', function($scope) {
 })
+
+.controller('SettingsCtrl', function($scope) {
+})

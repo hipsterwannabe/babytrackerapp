@@ -140,3 +140,28 @@ Terminating in response to SpringBoard's termination.
 2014-07-16 09:05:47.361 babytracker[3533:70b] [CDVTimer][TotalPluginStartup] 5.203009ms
 2014-07-16 09:05:47.716 babytracker[3533:70b] Resetting plugins due to page load.
 2014-07-16 09:05:48.434 babytracker[3533:70b] Finished load of: file:///Users/danieljimenez/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8EBBAC14-ABF5-4383-8110-CC2BC77D41CC/babytracker.app/www/index.html#/tab/menu
+2014-07-16 09:47:38.482 babytracker[5877:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-16 09:47:38.549 babytracker[5877:70b] Unlimited access to network resources
+2014-07-16 09:47:38.866 babytracker[5877:70b] [CDVTimer][keyboard] 0.137031ms
+2014-07-16 09:47:38.866 babytracker[5877:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-16 09:47:38.868 babytracker[5877:70b] [CDVTimer][statusbar] 1.446009ms
+2014-07-16 09:47:38.869 babytracker[5877:70b] [CDVTimer][TotalPluginStartup] 3.804028ms
+2014-07-16 09:47:39.625 babytracker[5877:70b] Resetting plugins due to page load.
+2014-07-16 09:47:41.431 babytracker[5877:70b] Finished load of: file:///Users/danieljimenez/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8EBBAC14-ABF5-4383-8110-CC2BC77D41CC/babytracker.app/www/index.html#/tab/menu
+2014-07-16 10:43:27.350 babytracker[6699:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-16 10:43:27.368 babytracker[6699:70b] Unlimited access to network resources
+2014-07-16 10:43:27.479 babytracker[6699:70b] [CDVTimer][keyboard] 8.448005ms
+2014-07-16 10:43:27.497 babytracker[6699:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-16 10:43:27.503 babytracker[6699:70b] [CDVTimer][statusbar] 5.389035ms
+2014-07-16 10:43:27.503 babytracker[6699:70b] [CDVTimer][TotalPluginStartup] 33.024013ms
+2014-07-16 10:43:27.810 babytracker[6699:70b] Resetting plugins due to page load.
+2014-07-16 10:43:28.607 babytracker[6699:70b] Finished load of: file:///Users/danieljimenez/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8EBBAC14-ABF5-4383-8110-CC2BC77D41CC/babytracker.app/www/index.html#/tab/menu
+Terminating in response to SpringBoard's termination.
+2014-07-16 10:46:10.755 babytracker[7064:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-16 10:46:10.775 babytracker[7064:70b] Unlimited access to network resources
+2014-07-16 10:46:10.865 babytracker[7064:70b] [CDVTimer][keyboard] 0.209987ms
+2014-07-16 10:46:10.866 babytracker[7064:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-16 10:46:10.867 babytracker[7064:70b] [CDVTimer][statusbar] 0.819981ms
+2014-07-16 10:46:10.867 babytracker[7064:70b] [CDVTimer][TotalPluginStartup] 2.981007ms
+2014-07-16 10:46:11.423 babytracker[7064:70b] Resetting plugins due to page load.
+2014-07-16 10:46:12.239 babytracker[7064:70b] Finished load of: file:///Users/danieljimenez/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8EBBAC14-ABF5-4383-8110-CC2BC77D41CC/babytracker.app/www/index.html#/tab/menu
