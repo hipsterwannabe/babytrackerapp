@@ -140,3 +140,13 @@ Terminating in response to SpringBoard's termination.
 2014-07-16 09:05:47.361 babytracker[3533:70b] [CDVTimer][TotalPluginStartup] 5.203009ms
 2014-07-16 09:05:47.716 babytracker[3533:70b] Resetting plugins due to page load.
 2014-07-16 09:05:48.434 babytracker[3533:70b] Finished load of: file:///Users/danieljimenez/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8EBBAC14-ABF5-4383-8110-CC2BC77D41CC/babytracker.app/www/index.html#/tab/menu
+2014-07-16 10:59:50.222 babytracker[21320:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-16 10:59:51.057 babytracker[21320:70b] Unlimited access to network resources
+2014-07-16 10:59:53.382 babytracker[21320:70b] [CDVTimer][keyboard] 10.074019ms
+2014-07-16 10:59:53.383 babytracker[21320:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-16 10:59:53.383 babytracker[21320:70b] [CDVTimer][statusbar] 0.494003ms
+2014-07-16 10:59:53.384 babytracker[21320:70b] [CDVTimer][TotalPluginStartup] 11.611998ms
+2014-07-16 10:59:53.978 babytracker[21320:70b] Resetting plugins due to page load.
+2014-07-16 10:59:55.383 babytracker[21320:70b] Finished load of: file:///Users/Owner-1/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CC5B46EE-19CA-47E8-9FBC-8F81066CB110/babytracker.app/www/index.html#/tab/menu
+2014-07-16 11:00:15.975 babytracker[21320:70b] Resetting plugins due to page load.
+2014-07-16 11:00:16.041 babytracker[21320:70b] Failed to load webpage with error: The requested URL was not found on this server.
