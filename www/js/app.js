@@ -78,36 +78,6 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
      }
    })
 
-   .state('tab.eating.breast', {
-     url: '/eating/breast',
-     views: {
-       'tab-eating-breast': {
-         templateUrl: 'templates/tab-eating-breast.html',
-         controller: 'breastFeedCtrl'
-       }
-     }
-   })
-
-   .state('tab.eating.bottle', {
-     url: '/eating/bottle',
-     views: {
-       'tab-eating-bottle': {
-         templateUrl: 'templates/tab-eating-bottle.html',
-         controller: 'bottleFeedCtrl'
-       }
-     }
-   })
-
-   .state('tab.settings', {
-     url: '/settings',
-     views: {
-       'tab-settings': {
-         templateUrl: 'templates/tab-settings.html',
-         controller: 'SettingsCtrl'
-       }
-     }
-   })
-
  // if none of the above states are matched, use this as the fallback
  $urlRouterProvider.otherwise('/tab/menu');
 
