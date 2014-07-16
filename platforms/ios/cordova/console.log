@@ -343,3 +343,20 @@ Terminating in response to SpringBoard's termination.
 2014-07-16 13:33:29.080 babytracker[19359:70b] [CDVTimer][TotalPluginStartup] 2.752006ms
 2014-07-16 13:33:29.431 babytracker[19359:70b] Resetting plugins due to page load.
 2014-07-16 13:33:30.143 babytracker[19359:70b] Finished load of: file:///Users/danieljimenez/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8EBBAC14-ABF5-4383-8110-CC2BC77D41CC/babytracker.app/www/index.html#/tab/menu
+2014-07-16 13:40:42.452 babytracker[20710:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-16 13:40:42.470 babytracker[20710:70b] Unlimited access to network resources
+2014-07-16 13:40:42.531 babytracker[20710:70b] [CDVTimer][keyboard] 0.137031ms
+2014-07-16 13:40:42.532 babytracker[20710:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-16 13:40:42.532 babytracker[20710:70b] [CDVTimer][statusbar] 0.705957ms
+2014-07-16 13:40:42.533 babytracker[20710:70b] [CDVTimer][TotalPluginStartup] 2.408028ms
+2014-07-16 13:40:42.865 babytracker[20710:70b] Resetting plugins due to page load.
+2014-07-16 13:40:43.581 babytracker[20710:70b] Finished load of: file:///Users/danieljimenez/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8EBBAC14-ABF5-4383-8110-CC2BC77D41CC/babytracker.app/www/index.html#/tab/menu
+Terminating in response to SpringBoard's termination.
+2014-07-16 13:42:30.222 babytracker[21069:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-16 13:42:30.239 babytracker[21069:70b] Unlimited access to network resources
+2014-07-16 13:42:30.278 babytracker[21069:70b] [CDVTimer][keyboard] 0.137985ms
+2014-07-16 13:42:30.280 babytracker[21069:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-16 13:42:30.281 babytracker[21069:70b] [CDVTimer][statusbar] 1.215994ms
+2014-07-16 13:42:30.282 babytracker[21069:70b] [CDVTimer][TotalPluginStartup] 3.980994ms
+2014-07-16 13:42:30.617 babytracker[21069:70b] Resetting plugins due to page load.
+2014-07-16 13:42:31.329 babytracker[21069:70b] Finished load of: file:///Users/danieljimenez/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8EBBAC14-ABF5-4383-8110-CC2BC77D41CC/babytracker.app/www/index.html#/tab/menu
